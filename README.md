@@ -14,6 +14,12 @@ A simple game of chess built with Vite and JS.
 
 ![image](https://user-images.githubusercontent.com/5178445/236351116-88980751-c6fd-4aa5-8604-836f5c2a9cce.png)
 
+Run locally:
+
+```
+npx vite
+```
+
 Made using free assets from:
 
 * https://nulltale.itch.io/chess
