@@ -1,5 +1,7 @@
 # Chess
 
+https://batary.dev/chess
+
 A simple game of chess built with Vite and JS.
 
 - [x] Rendering with `canvas` and `requestAnimationFrame`
